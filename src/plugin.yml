@@ -1,0 +1,26 @@
+name: GGames
+main: me.macaco.gg.GGames
+version: 1.0.0
+description: Muito bom
+commands:
+ gg:
+  join:
+   description: juntate a arena
+   usage: /join <command> [Optional, arguments]
+  setarena:
+   joinloc:
+       description: juntate a arena
+       usage: /lockx <command> [Optional, arguments]
+   startloc:
+      description: juntate a arena
+      usage: /locky <command> [Optional, arguments]
+   endloc:
+      description: juntate a arena
+      usage: /lockz <command> [Optional, arguments]
+  create:
+      description: juntate a arena
+      usage: /lockz <command> [Optional, arguments]
+  leave:
+      description: sai da arena
+      usage: /leave <command> [Optional, arguments]
+author: Macaco
